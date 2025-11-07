@@ -41,7 +41,7 @@ _Graduating april 2024_
 
 - 📧 [afsalkannu789@gmail.com](mailto:afsalkannu789@gmail.com)
 - 💼 [GitHub](https://github.com/AfsalKhan789)
-- [LinkedIN](https://linkedin.com/afsal-khan-599866348).
+- 🔗 [LinkedIn Profile](https://linkedin.com/in/afsal-khan-599866348)
 ---
 
 _“Turning data into decisions.”_
