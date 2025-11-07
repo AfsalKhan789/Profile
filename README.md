@@ -29,11 +29,11 @@ As a passionate data scientist learner i looking forward to work my ability to a
 ## 🎓 Education
 
 **Bachelor’s in Economics**  
-Bishop JCSI College, Mulayara  
-_Graduating May 2024_
+Univeristy of kerala
+_Graduating april 2024_
 
 **Internship:**  
-*Data Science Intern at Tesro (Nov 2024 – Jun 2025)*
+*Data Science Intern at Tesro (Dec 2024 – may 2025)*
 
 ---
 
@@ -41,7 +41,7 @@ _Graduating May 2024_
 
 - 📧 [afsalkannu789@gmail.com](mailto:afsalkannu789@gmail.com)
 - 💼 [GitHub](https://github.com/AfsalKhan789)
-
+- [LinkedIN](https://linkedin.com/afsal-khan-599866348).
 ---
 
 _“Turning data into decisions.”_
